@@ -1,0 +1,8 @@
+Dataset,Description,Test Accuracy,Test Macro F1
+D7_image_plus_all,D7 – Image + all tabular features,0.9933598937583001,0.993276221397153
+D3_all_tabular,D3 – Tabular: All 13 features,0.9907038512616202,0.9905977249740907
+D6_image_plus_second,D6 – Image + second-order features,0.9853917662682603,0.9851986998157656
+D2_second_order,D2 – Tabular: Second-order only,0.9840637450199203,0.98386774262658
+D5_image_plus_first,D5 – Image + first-order features,0.9747675962815405,0.9744647813166514
+D4_image_only,D4 – Image only (64x64 grayscale),0.8884462151394422,0.8873284596639733
+D1_first_order,D1 – Tabular: First-order only,0.8844621513944223,0.8829351712701456
